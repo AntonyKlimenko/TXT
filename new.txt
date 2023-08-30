@@ -1,0 +1,3 @@
+    name - Anthony
+    pet - null
+    wanted salary - 5000
