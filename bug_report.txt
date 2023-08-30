@@ -1,1 +1,8 @@
-
+summury: Log in button is disabled on the main page
+report by: Anthony Klimeko
+component: ReactJS
+priopity: high
+severity: low
+steps for reproduce: 1. Follow link <some link> 2. Click Log in button
+expected result: Log in page is opened
+actual result: User stay on the main page
