@@ -1,0 +1,7 @@
+    skiil 1 - requarement analysys
+    skill 2 - sql
+    skill 3 - backend testing
+    skill 4 - linux commands
+    skill 5 - git
+    skill 6 - frontend testing
+    skill 7 - test documentation writting
